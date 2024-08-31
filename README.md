@@ -38,6 +38,7 @@ Here's a walkthrough of implemented required features:
 👉🏿<img src='https://i.imgur.com/sP51VFO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [Imgur](https://imgur.com/sP51VFO)
+(https://imgur.com/a/8kzcBSE)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
