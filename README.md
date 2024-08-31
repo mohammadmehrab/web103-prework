@@ -52,6 +52,10 @@ Describe any challenges encountered while building the app or any additional con
 
 Using Supabase was new for me, but with enough researching I was able to understand how to actually get the data and connect my website with the database.
 
+Once you clone the project and go into the directory, do
+npm i
+npm run dev
+
 ## License
 
 Copyright [2024] [Mohammad Mehrab]
